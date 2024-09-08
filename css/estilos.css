@@ -50,3 +50,19 @@ body
     background: red;
     padding: 1em;
 }
+
+.footer{
+  background-color: #37488b;
+  width: 100%;
+  height: 50px;  
+}
+
+.title_footer{
+  text-align: center;
+  font-weight: bolder;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 20px;
+  padding: auto 10px;
+}
